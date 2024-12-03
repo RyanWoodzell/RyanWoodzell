@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan Woodzell</h1>
 <h3 align="center">A student-athlete at Fairfield University majoring in both Computer Science and Mathematics</h3>
 
-- 🔭 I’m currently working on [Sophomore-Workshop-Lab](https://github.com/RyanWoodzell/Sophomore-Workshop-Lab) 
+- 🔭 I’m currently working on [Sophomore-Workshop-Lab](https://github.com/RyanWoodzell/Sophomore-Workshop-Lab) and [Soccer-League-Stats](https://github.com/RyanWoodzell/Soccer-League-Stats)
 
 - 🌱 I’m currently learning **Data Science, Machine Learning**
 

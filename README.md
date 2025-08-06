@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan Woodzell</h1>
 <h3 align="center">A student-athlete at Fairfield University majoring in both Computer Science and Mathematics</h3>
 
-- 🔭 I’m currently working on TheraForm, a full stack application enabling auto-filled form generation
+- 🔭 I’m currently working on **TheraForm**, a full stack application enabling auto-filled form generation
 
 - 🌱 I’m currently learning **Data Science, Machine Learning**
 
